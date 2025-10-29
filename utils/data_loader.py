@@ -60,3 +60,5 @@ class DataPrep:
 print("alo")
 
 print("ok duwocj rooif nha")
+
+print("chua co gì")
